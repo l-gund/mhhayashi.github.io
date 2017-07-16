@@ -1,5 +1,5 @@
 ---
-theme: jekyll-theme-slate
+layout: default
 title: Hi, I'm Max Hayashi.
 ---
 *index page*
