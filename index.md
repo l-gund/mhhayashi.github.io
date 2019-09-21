@@ -1,5 +1,6 @@
 ---
 layout: default
-title: Hi, I'm Max Hayashi.
+title: Max's list of classes
 ---
-*index page*
+Discrete Structures: 
+[asdfasdfas](https://course.ccs.neu.edu/cs1800f19/)
