@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Max's Website
 repository: mhhayashi/mhhayashi.github.io
+plugins:
+  - jekyll-target-blank
