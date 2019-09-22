@@ -8,5 +8,5 @@ title: Max's list of classes
 [East Asian Studies](https://docs.google.com/document/d/1G9xvzZTFHpNOZwm6igxYrrfaynhH3CTb_MaUi80DUwY/edit){:target="_blank"}
   
 [Blackboard](https://northeastern.blackboard.com/){:target="_blank"}  
-[Piazza](https://piazza.com/){:target="_blank"}
+[Piazza](https://piazza.com/){:target="_blank"}  
 [Khoury Handins](https://handins.ccs.neu.edu/login){:target="_blank"}
