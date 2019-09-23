@@ -10,4 +10,4 @@ title: Lilly's classes
 [Khoury Handins](https://handins.ccs.neu.edu/login){:target="_blank"}  
 [Gradescope](https://www.gradescope.com/){:target="_blank"}
 
-{% include_relative links.html %}
+{% include_relative links.md %}
