@@ -5,4 +5,4 @@ title: Richard's list of classes
 [Discrete Structures](https://course.ccs.neu.edu/cs1800f19/){:target="_blank"}  
 [Fundies Accel](https://course.ccs.neu.edu/cs2500accelf19/){:target="_blank"}  
   
-{% include_relative links.md %}
+{% include links.md %}
