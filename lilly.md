@@ -9,3 +9,5 @@ title: Lilly's classes
 [Piazza](https://piazza.com/){:target="_blank"}  
 [Khoury Handins](https://handins.ccs.neu.edu/login){:target="_blank"}  
 [Gradescope](https://www.gradescope.com/){:target="_blank"}
+
+{% include footer.html %}
