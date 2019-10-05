@@ -1,8 +1,5 @@
 theme: jekyll-theme-slate
 title: Max's Website
 repository: mhhayashi/mhhayashi.github.io
-markdown: kramdown
-kramdown:
-  parse_block_html: true
 plugins:
   - jekyll-target-blank
