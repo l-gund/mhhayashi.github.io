@@ -6,6 +6,8 @@ title: Decks
 <div markdown = "0">
 <details><summary>Decklist</summary>
 <p>
+
+```
 4 Nightpack Ambusher (M20) 185
 4 Spectral Sailor (M20) 76
 4 Brineborn Cutthroat (M20) 50
@@ -26,6 +28,7 @@ title: Decks
 2 Disdainful Stroke (GRN) 37
 3 Aether Gust (M20) 42
 3 Kraul Harpooner (GRN) 136
+```
 </p>
 </details>
 </div>
