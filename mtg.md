@@ -6,7 +6,7 @@ title: Decks
 <details><summary>Decklist</summary>
 <p>
 
-```
+```html
 4 Nightpack Ambusher (M20) 185
 4 Spectral Sailor (M20) 76
 4 Brineborn Cutthroat (M20) 50
