@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Max's Website
 repository: mhhayashi/mhhayashi.github.io
+markdown: CommonMarkGhPages
 plugins:
   - jekyll-target-blank
