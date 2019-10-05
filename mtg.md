@@ -2,10 +2,13 @@
 layout: default
 title: Decks
 ---
-5
+6
 [Simic Flash Guide](https://www.reddit.com/r/spikes/comments/dci1cj/2x_throne_of_eldraine_simic_flash_mythic_top_1000/){:target="_blank"}
 
-<details><summary>Decklist</summary>
+<details>
+<summary markdown="0">
+Decklist
+</summary>
   
 ~~~
 4 Nightpack Ambusher (M20) 185
