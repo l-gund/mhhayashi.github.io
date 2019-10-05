@@ -3,7 +3,6 @@ layout: default
 title: Decks
 ---
 [Simic Flash Guide](https://www.reddit.com/r/spikes/comments/dci1cj/2x_throne_of_eldraine_simic_flash_mythic_top_1000/){:target="_blank"}  
-<div markdown = "0">
 <details><summary>Decklist</summary>
 <p>
 
@@ -31,4 +30,3 @@ title: Decks
 ```
 </p>
 </details>
-</div>
