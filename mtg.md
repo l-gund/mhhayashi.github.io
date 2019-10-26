@@ -2,7 +2,7 @@
 layout: default
 title: Decks
 ---
-[Bant Food Guide](https://www.channelfireball.com/all-strategy/articles/taking-bant-food-to-third-place-at-mythic-championship-v/){:target="_blank"}
+[Andrea's Bant Food Guide](https://www.channelfireball.com/all-strategy/articles/taking-bant-food-to-third-place-at-mythic-championship-v/){:target="_blank"}
 
 <details>
 <summary markdown="0">
