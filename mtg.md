@@ -32,7 +32,7 @@ Sideboard
 2 Veil of Summer (M20) 198
 2 Disdainful Stroke (GRN) 37
 1 Lovestruck Beast (ELD) 165
-1 Ashiok, Dream Render (WAR) 228
+1 Brazen Borrower (ELD) 39
 2 Aether Gust (M20) 42
 1 Tamiyo, Collector of Tales (WAR) 220
 2 Voracious Hydra (M20) 200
@@ -61,6 +61,7 @@ Gruul / Mono Red:
 - once upon a time
 + 2 Voracious Hydra
 + 2 aether gust
+(mono black: leave once and castle in, aether gusts out)
 
 Esper Doom: 
 - 4 Wicked Wolf
@@ -71,6 +72,13 @@ Esper Doom:
 + 2 Disdainful stroke
 + 2 veil of summer
 + 1 Tamiyo
+
+Fires: 
+- 4 wicked wolf
+- 1 voracious hydra
++ 2 disdainful stroke
++ 2 negate 
++ 1 quench
 ~~~
 </details>
 
