@@ -2,6 +2,77 @@
 layout: default
 title: Decks
 ---
+[Bant Food Guide](https://www.channelfireball.com/all-strategy/articles/taking-bant-food-to-third-place-at-mythic-championship-v/){:target="_blank"}
+
+<details>
+<summary markdown="0">
+Max's SIMIC Food Decklist
+</summary>
+  
+~~~
+Deck
+4 Oko, Thief of Crowns (ELD) 197
+4 Nissa, Who Shakes the World (WAR) 169
+4 Gilded Goose (ELD) 160
+4 Hydroid Krasis (RNA) 183
+4 Questing Beast (ELD) 171
+4 Wicked Wolf (ELD) 181
+4 Paradise Druid (WAR) 171
+4 Once Upon a Time (ELD) 169
+1 Agent of Treachery (M20) 43
+12 Forest (ELD) 266
+6 Island (ELD) 257
+4 Breeding Pool (RNA) 246
+2 Temple of Mystery (M20) 255
+1 Voracious Hydra (M20) 200
+1 Castle Vantress (ELD) 242
+1 Leafkin Druid (M20) 178
+
+Sideboard
+2 Veil of Summer (M20) 198
+2 Disdainful Stroke (GRN) 37
+1 Lovestruck Beast (ELD) 165
+1 Ashiok, Dream Render (WAR) 228
+2 Aether Gust (M20) 42
+1 Arboreal Grazer (WAR) 149
+2 Voracious Hydra (M20) 200
+2 Negate (RIX) 44
+2 Quench (RNA) 48
+~~~
+</details>
+
+<details>
+<summary markdown="0">
+Max's Sideboard Guide
+</summary>
+  
+~~~
+NOTE: I am only taking out lands because I added an extra land in the flex slot
+Adventures:
+- agent of treachery 
+- leafkin druid (OTP), castle vantess (OTD)
++ 2 Voracious Hydra
+(against golgari: take out both and play Veil)
+
+Gruul / Mono Red:
+- agent of treachery 
+- leafkin druid
+- castle vantress
+- once upon a time
++ 2 Voracious Hydra
++ 2 aether gust
+
+Esper Doom: 
+- 4 Wicked Wolf
+- 1 leafkin druid
+- 1 castle vantress
++ 2 Negate
++ 2 Disdainful stroke
++ 2 veil of summer
+~~~
+</details>
+
+
 [Simic Flash Guide](https://www.reddit.com/r/spikes/comments/dci1cj/2x_throne_of_eldraine_simic_flash_mythic_top_1000/){:target="_blank"}
 
 <details>
