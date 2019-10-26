@@ -34,7 +34,7 @@ Sideboard
 1 Lovestruck Beast (ELD) 165
 1 Ashiok, Dream Render (WAR) 228
 2 Aether Gust (M20) 42
-1 Arboreal Grazer (WAR) 149
+1 Tamiyo, Collector of Tales (WAR) 220
 2 Voracious Hydra (M20) 200
 2 Negate (RIX) 44
 2 Quench (RNA) 48
@@ -66,9 +66,11 @@ Esper Doom:
 - 4 Wicked Wolf
 - 1 leafkin druid
 - 1 castle vantress
+- 1 agent of treachery
 + 2 Negate
 + 2 Disdainful stroke
 + 2 veil of summer
++ 1 Tamiyo
 ~~~
 </details>
 
