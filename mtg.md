@@ -2,6 +2,47 @@
 layout: default
 title: Decks
 ---
+
+<details>
+<summary markdown="0">
+Max's Sultai Food Decklist
+</summary>
+  
+~~~
+Deck
+1 Garruk, Cursed Huntsman (ELD) 191
+2 Vraska, Golgari Queen (GRN) 213
+4 Nissa, Who Shakes the World (WAR) 169
+4 Oko, Thief of Crowns (ELD) 197
+1 Voracious Hydra (M20) 200
+4 Gilded Goose (ELD) 160
+4 Hydroid Krasis (RNA) 183
+4 Paradise Druid (WAR) 171
+4 Wicked Wolf (ELD) 181
+4 Noxious Grasp (M20) 110
+4 Once Upon a Time (ELD) 169
+1 Island (ELD) 254
+2 Swamp (ELD) 258
+3 Fabled Passage (ELD) 244
+4 Breeding Pool (RNA) 246
+4 Overgrown Tomb (GRN) 253
+4 Watery Grave (GRN) 259
+6 Forest (ELD) 266
+
+Sideboard
+1 Disdainful Stroke (GRN) 37
+1 Legion's End (M20) 106
+1 Questing Beast (ELD) 171
+2 Negate (RIX) 44
+1 Casualties of War (WAR) 187
+1 Lovestruck Beast (ELD) 165
+1 Tamiyo, Collector of Tales (WAR) 220
+3 Veil of Summer (M20) 198
+2 Duress (M20) 97
+2 Thrashing Brontodon (RIX) 148
+~~~
+</details>
+
 [Andrea's Bant Food Guide](https://www.channelfireball.com/all-strategy/articles/taking-bant-food-to-third-place-at-mythic-championship-v/){:target="_blank"}
 
 <details>
