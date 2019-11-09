@@ -43,6 +43,44 @@ Sideboard
 ~~~
 </details>
 
+<details>
+<summary markdown="0">
+Max's Sideboard Guide
+</summary>
+  
+~~~
+Adventures:
+- Garruk
++ Legion's End
+
+Gruul / Mono Red:
+- Garruk
+- once upon a time
++ 1 Legion's End
++ 1 aether gust
+(mono black: leave once and castle in, aether gusts out)
+
+Esper Doom: 
+- 4 Wicked Wolf
+- 4 Grasp
+- 1 Vraska 
++ 2 Negate
++ 1 Disdainful stroke
++ 2 duress
++ 1 Tamiyo
++ 2 Brontodon
+
+Fires: 
+- 4 wicked wolf
+- 1 voracious hydra
+- 2 Vraska
++ 1 disdainful stroke
++ 2 negate 
++ 2 Brontodon
++ 2 Duress
+~~~
+</details>
+
 [Andrea's Bant Food Guide](https://www.channelfireball.com/all-strategy/articles/taking-bant-food-to-third-place-at-mythic-championship-v/){:target="_blank"}
 
 <details>
