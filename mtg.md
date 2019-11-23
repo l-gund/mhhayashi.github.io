@@ -61,9 +61,9 @@ Gruul / Mono Red:
 
 Control: 
 + 4 Duress
-+ 2 Assassin's Trophy
++ 2 Assassin's Trophy / Thrashing Brontodon
 - 2 Vivien
-- 2 Murderous Rider
+- 2 Murderous Rider / - 4 against reclamation
 - 1 Garruk
 - 1 Rankle / Questing Beast
 ~~~
